@@ -1,0 +1,11 @@
+D:\Progs\wcf_chat\ClientGame\bin\Debug\ClientGame.exe.config
+D:\Progs\wcf_chat\ClientGame\bin\Debug\ClientGame.exe
+D:\Progs\wcf_chat\ClientGame\bin\Debug\ClientGame.pdb
+D:\Progs\wcf_chat\ClientGame\obj\Debug\ClientGame.csproj.AssemblyReference.cache
+D:\Progs\wcf_chat\ClientGame\obj\Debug\ClientGame.csproj.SuggestedBindingRedirects.cache
+D:\Progs\wcf_chat\ClientGame\obj\Debug\ClientGame.gameWindow.resources
+D:\Progs\wcf_chat\ClientGame\obj\Debug\ClientGame.Properties.Resources.resources
+D:\Progs\wcf_chat\ClientGame\obj\Debug\ClientGame.csproj.GenerateResource.cache
+D:\Progs\wcf_chat\ClientGame\obj\Debug\ClientGame.csproj.CoreCompileInputs.cache
+D:\Progs\wcf_chat\ClientGame\obj\Debug\ClientGame.exe
+D:\Progs\wcf_chat\ClientGame\obj\Debug\ClientGame.pdb

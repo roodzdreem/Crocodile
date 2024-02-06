@@ -1,0 +1,17 @@
+﻿<Window x:Name="MainWindow" Class="ChatClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChatClient"
+        mc:Ignorable="d"
+        Title="Крокодил" Height="440" Width="625" Loaded="Window_Loaded" Closing="Window_Closing">
+    <Grid>
+        <TextBox x:Name="tbUserName" HorizontalAlignment="Left" Height="29" Margin="408,10,0,0" TextWrapping="Wrap" Text="Имя игрока" VerticalAlignment="Top" Width="178"/>
+        <Button x:Name="bConnDicon" Click="Button_Click" Content="Подключиться" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Width="147" Height="29"/>
+        <ListBox x:Name="lbChat" HorizontalAlignment="Left" Height="306" Margin="379,44,0,0" VerticalAlignment="Top" Width="236"/>
+        <TextBox x:Name="tbMessage" HorizontalAlignment="Left" Height="30" Margin="10,373,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="589" KeyDown="tbMessage_KeyDown"/>
+        <Border x:Name="drawBorder" BorderBrush="Black" BorderThickness="1" Margin="10,44,251,74" MouseLeftButtonDown="DrawInBorder"/>
+
+    </Grid>
+</Window>
